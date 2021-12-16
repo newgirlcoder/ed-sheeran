@@ -47,7 +47,10 @@ nav ul li{
     margin: 23px auto;
     border-radius: 12px;
     padding: 34px;
-    background-image: url("bg9.jpg");
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFGRG1nmvezChjfjhJLWWmfQgSIF_TK_GYFQ&usqp=CAU");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 .bottom{
